@@ -1,0 +1,33 @@
+Câu 01:
+   1. Tạo private repo trên Github với tên: HoVaTen_MSSV_Lab06 (0.5 điểm)
+   2. Clone repo về máy local, mở lên bằng VS Code, cài đặt môi trường cho lập trình Python, tạo nhánh lab06 từ nhánh main (0.5 điểm)
+
+Câu 02: Máy chẵn làm ý 1 + 2; Máy lẻ làm ý 3 + 4 
+   1. Làm câu 6.6.1. Web Server & Commit code (1.5 điểm)
+   2. Làm câu 6.6.2. Network Scanner & Commit code (1.5 điểm)
+   3. Làm câu 6.6.3. Network Capture & Commit code (1.5 điểm)
+   4. Làm câu 6.6.4. Port Scanner & Commit code (1.5 điểm)
+
+Câu 03: Máy chẵn làm ý 1; máy lẻ làm ý 2
+   1. Tạo form UI cho mã hoá và giải mã Rail Fence & Commit code (1.5 điểm)
+   2. Tạo form UI cho mã hoá và giải mã Transposition & Commit code (1.5 điểm)
+
+Câu 04: Máy chẵn làm ý 1; máy lẻ làm ý 2
+   1. Tạo form UI cho mã hoá và giải mã RSA & Commit code (1.5 điểm)
+   2. Tạo form UI cho mã hoá và giải mã ECC & Commit code (1.5 điểm)
+
+Câu 05:
+   1. Push tất cả thay đổi lên remote repo (0.5 điểm)
+   2. Tạo PR từ lab06 về main & Merge code (0.5 điểm)
+
+Câu 06: (2.0 điểm)
+   1. Tất cả các câu chụp hình kết quả lưu vào file word báo cáo, nhớ ghi rõ họ tên, MSSV, lớp.
+   2. Sinh viên tự chấm điểm ở cuối file báo cáo theo phổ điểm đã quy định ở trên.
+------------
+*Lưu ý:
+- Không clone từ repo có sẵn, phải là repo mới.
+- Không sao chép, chia sẻ bài cho nhau.
+- Có thể sử dung code đã làm của các bài trước để import vào, không cần code lại.
+- Commit code cho từng câu, không commit chung nhiều câu.
+
+CHÚC CÁC BẠN LÀM BÀI TỐT!
